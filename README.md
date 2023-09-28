@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 
 - 🔭 I’m currently working on a potential tech startup.
 - 🌱 I’m currently learning to build software that scales.
